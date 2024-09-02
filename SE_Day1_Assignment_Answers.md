@@ -1,4 +1,4 @@
-### Part 1: Introduction to Software Engineering
+Part 1: Introduction to Software Engineering
 
 #### What is Software Engineering?
 Software engineering is the disciplined, systematic approach to the design, development, maintenance, and management of software systems. It applies engineering principles to software development, ensuring that software is reliable, efficient, maintainable, and meets user requirements.
